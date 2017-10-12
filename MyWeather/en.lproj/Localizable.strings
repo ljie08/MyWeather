@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  MyWeather
+
+  Created by lijie on 2017/7/27.
+  Copyright © 2017年 lijie. All rights reserved.
+*/
+//"default"="Default";
+"delete"="delete";
+"cityName"="please choose a city";
+"forecast7d"="| Forecast Detail |";
+"weatherIndex"="| Weather Index |";
+"nodata"="No Data";
+"now"="Now";
+"today"="Today";
+
+"fengxiang"="WDir";
+"fengli"="WGra";
+"shidu"="Hum";
+"vis"="vis";
+"fl"="fl";
+"pcpn"="pcpn";
+"pres"="pres";
+
+"drsg"="Wear";
+"air"="Air";
+"sport"="Sport";
+"uv"="UV";
+"trav"="Travle";
+"cw"="Clear Car";
+"comf"="Comfort";
+"flu"="Flu";
+
+"reset"="Reset";
+
+//2.7.5
+"home"="Memory";
+"new"="New Things";
+"save"="Save";
+"setting"="Setting";
+"detail"="Detail";
+"edit"="Edit";
+"overdue1"="pass";//
+"overdue2"="has";//
+
+"thingsname"="Name";
+"date"="Date";
+"choose"="Choose";
+"top"="Top";
+"repeat"="Repeat";
+"norepeat"="NoRepeat";
+"month"="EveryMonth";
+"week"="EveryWeek";
+"year"="EveryYear";
+"delete"="Delete";
+
+"titlehint"="Please input Name";
+"datehint"="Please choose Date";
+
+"nodata"="No Data";
+"adddata"="Please add new things~";

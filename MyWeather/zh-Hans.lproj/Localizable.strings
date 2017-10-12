@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  MyWeather
+
+  Created by lijie on 2017/7/27.
+  Copyright © 2017年 lijie. All rights reserved.
+*/
+//"default"="默认";
+"delete"="删除";
+"cityName"="请选择城市";
+"forecast7d"="| 详细预报 |";
+"weatherIndex"="| 天气指数 |";
+"nodata"="暂无数据";
+"now"="现在";
+"today"="今天";
+"fengxiang"="风向";
+"fengli"="风力";
+"shidu"="湿度";
+"vis"="能见度";
+"fl"="感冒指数";
+"pcpn"="降水量";
+"pres"="大气压";
+
+"drsg"="穿衣指数";
+"air"="空气质量";
+"sport"="运动指数";
+"uv"="紫外线";
+"trav"="旅游指数";
+"cw"="洗车指数";
+"comf"="舒适度";
+"flu"="感冒指数";
+
+"reset"="重新定位";
+
+//2.7.5
+"home"="记忆";
+"new"="新建事件";
+"save"="保存";
+"setting"="设置";
+"detail"="详细";
+"edit"="修改";
+"overdue1"="已过";
+"overdue2"="还有";
+
+"thingsname"="事件名";
+"date"="日期";
+"choose"="选择";
+"top"="置顶";
+"repeat"="重复";
+"norepeat"="无重复";
+"month"="每月";
+"week"="每周";
+"year"="每年";
+"delete"="删除";
+"day"="天";
+
+"titlehint"="请输入事件名";
+"datehint"="请选择日期";
+
+"nodata"="暂无数据";
+"adddata"="请点击右上角加号新建哦~";

@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "标题"; ObjectID = "1hm-po-iUz"; */
+"1hm-po-iUz.text" = "标题";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "3pb-3y-cIo"; */
+"3pb-3y-cIo.text" = "10";
+
+/* Class = "UILabel"; text = "上海"; ObjectID = "3qg-tK-0Z0"; */
+"3qg-tK-0Z0.text" = "上海";
+
+/* Class = "UILabel"; text = "目标日"; ObjectID = "635-uU-yNb"; */
+"635-uU-yNb.text" = "目标日";
+
+/* Class = "UILabel"; text = "多云"; ObjectID = "DM5-Ej-HbN"; */
+"DM5-Ej-HbN.text" = "多云";
+
+/* Class = "UILabel"; text = "东南风"; ObjectID = "IAu-9q-IR0"; */
+"IAu-9q-IR0.text" = "东南风";
+
+/* Class = "UILabel"; text = "↑"; ObjectID = "Pn1-2U-AAK"; */
+"Pn1-2U-AAK.text" = "has";
+
+/* Class = "UILabel"; text = "30°"; ObjectID = "Tw4-8T-Dya"; */
+"Tw4-8T-Dya.text" = "30°";
+
+/* Class = "UILabel"; text = "天"; ObjectID = "f7n-wx-bHu"; */
+"f7n-wx-bHu.text" = "day";
